@@ -4,7 +4,7 @@ package com.mycompany.bibliotecakevincorzo;
 public class BibliotecaKevinCorzo {
 
     public static void main(String[] args) {
-        System.out.println("Hola");
+        System.out.println("");
 Recurso libro1 = new Libro("Kevin",01,"Libro1",true);
 Recurso libro2 = new Libro("Kevin",02,"Libro2",false);
 Recurso revista1 = new Revista(1,tipoRevista.DEPORTES, 03,"Revista1",true);
